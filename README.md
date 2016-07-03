@@ -9,3 +9,8 @@ Xamarin Code Samples
  
  - myApp (drawer sample with 2 top tabs)
  
+
+
+
+Liking this
+ - https://guides.codepath.com/android/Fragment-Navigation-Drawer
