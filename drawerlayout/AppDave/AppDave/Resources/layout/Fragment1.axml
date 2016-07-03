@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#C2C2C2">
+    <EditText
+        android:id="@+id/txtFragment1"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:textColor="#000"
+        android:text="@string/text1" />
+    <Button
+        android:text="Button"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:id="@+id/button1" />
+</RelativeLayout>

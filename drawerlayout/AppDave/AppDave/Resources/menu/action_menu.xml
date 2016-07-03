@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <item android:id="@+id/action_help"
+        android:icon="@drawable/ic_action_help"
+        android:title="Help"
+        app:showAsAction="always"
+        />
+
+  <item android:id="@+id/action_fragment1"
+        android:title="Fragment 1"
+        app.showAsAction="never"></item>
+
+  <item android:id="@+id/action_fragment2"
+        android:title="Fragment 2"
+        app.showAsAction="never"></item>
+
+  <item android:id="@+id/action_fragment3"
+        android:title="Fragment 3"
+        app.showAsAction="never"></item>
+
+</menu>
+  

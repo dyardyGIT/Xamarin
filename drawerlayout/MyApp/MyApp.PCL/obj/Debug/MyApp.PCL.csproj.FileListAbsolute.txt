@@ -1,0 +1,16 @@
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp.PCL\bin\Debug\MyApp.PCL.dll
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp.PCL\bin\Debug\MyApp.PCL.pdb
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp.PCL\obj\Debug\MyApp.PCL.dll
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp.PCL\obj\Debug\MyApp.PCL.pdb
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp.PCL\obj\Debug\MyApp.PCL.csprojResolveAssemblyReference.cache
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp.PCL\obj\Debug\MyApp.PCL.dll.mdb
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp.PCL\bin\Debug\MyApp.PCL.dll.mdb
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp\MyApp.PCL\bin\Debug\MyApp.PCL.dll
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp\MyApp.PCL\bin\Debug\MyApp.PCL.pdb
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp\MyApp.PCL\obj\Debug\MyApp.PCL.csprojResolveAssemblyReference.cache
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp\MyApp.PCL\obj\Debug\MyApp.PCL.dll
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp\MyApp.PCL\obj\Debug\MyApp.PCL.pdb
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp\MyApp.PCL\obj\Debug\MyApp.PCL.dll.mdb
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp\MyApp.PCL\bin\Debug\MyApp.PCL.dll.mdb
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp\MyApp.PCL\obj\Debug\MyApp.PCL.dll.mdb
+C:\Users\dyardy\Documents\_Business\Xamarin\Android\MyApp\MyApp.PCL\bin\Debug\MyApp.PCL.dll.mdb
