@@ -5,7 +5,7 @@ Xamarin Code Samples
 
  - dr2 (drawer sample using fragments and actionbardrawertoggle)
 
- - appDave (material design drawer sample w/fragments)
+ - appDave (material design drawer sample w/fragments, toolbar actions etc.)
  
  - myApp (drawer sample with 2 top tabs)
  
